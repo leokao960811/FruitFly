@@ -375,11 +375,7 @@ python search_neurons.py
 
 ## 7. 下一階段工作（尚未完成）
 
-### 7.1 搜尋 Kenyon Cells（KC）
-
-目前四類篩選尚未包含 KC。下一步應先檢查 MaleCNS 註解資料中的 `type`、`class`、`superclass`、`subclass`、`instance` 等欄位，確認 KC 的實際命名方式，再獨立篩選及進行 ID 比對。
-
-### 7.2 取得神經元連結資料
+### 7.1 取得神經元連結資料
 
 可從 [MaleCNS 官方下載頁面](https://male-cns.janelia.org/download/) 取得 connectome weights，或使用 [neuPrint](https://neuprint.janelia.org/)／[neuprint-python 文件](https://connectome-neuprint.github.io/neuprint-python/docs/) 查詢特定神經元的連結。
 
@@ -391,7 +387,7 @@ API 查詢前需確認：
 - 先用小型神經元子集合測試，再擴大查詢範圍。
 - 連結權重是資料集中記錄的連結強度，不應直接宣稱等於生理神經傳導效率。
 
-### 7.3 建立神經活動輸出
+### 7.2 建立神經活動輸出
 
 完成感測器特徵編碼與神經網路模型後，才能依照範本要求輸出神經元活動 JSON。範本要求使用 `MaleCNS_bodyId` 與正規化活動值，且只接受符合腦圖譜顯示範圍的 ID。
 
