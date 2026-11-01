@@ -1,0 +1,15 @@
+﻿assignedOlHex1,assignedOlHex2,bodyId,flywireType,group,instance,somaSide,statusLabel,superclass,type,vfbId,hemibrainType,itoleeHl,supertype,birthtime,mancBodyid,mancGroup,mancType,subclass,synonyms,class,rootSide,somaNeuromere,trumanHl,dimorphism,matchingNotes,entryNerve,mancSerial,mcnsSerial,serialMotif,fruDsx,exitNerve,receptorType,somaLocation,tosomaLocation,status,in_template,is_visible
+,,86209,KCg-m,14292.0,KCg-m_L,L,Prelim Roughly traced,cb_intrinsic,KCg-m,VFB_jrmc2kg2,KCg-m,MBp3,14292.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,[58190 10068 33314],Traced,False,False
+,,87728,KCab,11862.0,KCab-s_R,R,Roughly traced,cb_intrinsic,KCab-s,VFB_jrmc2jzd,"KCab-m,KCab-c,KCab-s",MBp4,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,89719,KCab,24695.0,KCab-m_R,R,Roughly traced,cb_intrinsic,KCab-m,VFB_jrmc2j92,"KCab-m,KCab-c,KCab-s",MBp3,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,92927,KCg-m,14292.0,KCg-m_R,R,Prelim Roughly traced,cb_intrinsic,KCg-m,VFB_jrmc2klf,KCg-m,MBp3,14292.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,96688,KCg-m,14292.0,KCg-m_L,L,Prelim Roughly traced,cb_intrinsic,KCg-m,VFB_jrmc2kcm,KCg-m,MBp4,14292.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,104513,KCg-d,19102.0,KCg-d_R,R,Roughly traced,cb_intrinsic,KCg-d,VFB_jrmc2k5c,KCg-d,MBp3,19102.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,110815,KCab,24695.0,KCab-m_R,R,Roughly traced,cb_intrinsic,KCab-m,VFB_jrmc2j3o,"KCab-m,KCab-c,KCab-s",MBp3,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,[36515 14367 36362],Traced,False,False
+,,161026,KCapbp-ap2,17488.0,KCa'b'-ap2_R,R,Prelim Roughly traced,cb_intrinsic,KCa'b'-ap2,VFB_jrmc2iay,KCa'b'-ap2,MBp3,17488.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,163889,KCab,24695.0,KCab-m_L,L,Roughly traced,cb_intrinsic,KCab-m,VFB_jrmc2jav,"KCab-m,KCab-c,KCab-s",MBp1,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,[55324 10540 33070],Traced,False,False
+,,168522,KCapbp-m,35736.0,KCa'b'-m_L,L,Roughly traced,cb_intrinsic,KCa'b'-m,VFB_jrmc2ik3,KCa'b'-m,MBp3,17488.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,172288,KCab,24695.0,KCab-m_L,L,Roughly traced,cb_intrinsic,KCab-m,VFB_jrmc2j1w,"KCab-m,KCab-c,KCab-s",MBp1,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,213934,KCab,24695.0,KCab-m_R,R,Prelim Roughly traced,cb_intrinsic,KCab-m,VFB_jrmc2jc5,"KCab-m,KCab-c,KCab-s",MBp3,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False
+,,303093,KCab,11862.0,KCab-s_R,R,Prelim Roughly traced,cb_intrinsic,KCab-s,VFB_jrmc2joc,"KCab-m,KCab-c,KCab-s",MBp3,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,[36523 14983 36376],Traced,False,False
+,,953362,KCab,24695.0,KCab-m_L,L,Reviewed,cb_intrinsic,KCab-m,VFB_jrmc2jdz,,MBp3,11862.0,,,,,,,Kenyon_Cell,,,,,,,,,,,,,,,Traced,False,False

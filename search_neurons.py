@@ -109,24 +109,24 @@ print(summary)
 # 6. 儲存可以顯示的神經元
 # ==================================
 
-visible_olfactory = df[
-    df["is_visible"]
-].copy()
+# visible_olfactory = df[
+#     df["is_visible"]
+# ].copy()
 
-visible_olfactory.to_csv(
-    "visible_olfactory_neurons.csv",
-    index=False,
-    encoding="utf-8-sig"
-)
+# visible_olfactory.to_csv(
+#     "visible_olfactory_neurons.csv",
+#     index=False,
+#     encoding="utf-8-sig"
+# )
 
-print("\n成功產生 visible_olfactory_neurons.csv")
-print("可顯示的候選神經元：", len(visible_olfactory))
+# print("\n成功產生 visible_olfactory_neurons.csv")
+# print("可顯示的候選神經元：", len(visible_olfactory))
 
 # 建立 GitHub 神經元 ID 與群組對照表
-atlas = pd.DataFrame({
-    "bodyId": ids.astype("int64"),
-    "template_group": groups.astype("int64")
-})
+# atlas = pd.DataFrame({
+#     "bodyId": ids.astype("int64"),
+#     "template_group": groups.astype("int64")
+# })
 
 # 將候選神經元與 GitHub 資料合併
 check = df.merge(
